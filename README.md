@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Python Chatbot with Streamlit and OpenAI 🔥</h1>
+<h1 align="center">🔥 Python Chatbot with Streamlit || OpenAI 🔥</h1>
 
 <p align="center">
   <img src="output.png" alt="Chatbot Preview" width="500">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🌟 GitHub Repository: https://github.com/CodingCraftYT/chatbot-streamlit-openai 🌟<br>
+  🌟 GitHub Repository: https://github.com/CodeWithMayank-Py/Python-ChatBot-Streamlit-OpenAI 🌟<br>
   🔐 OpenAI API Key: https://platform.openai.com/account/api-keys 🔐
 </p>
 
@@ -27,7 +27,7 @@ This repository provides a step-by-step guide to building an intelligent Python 
 
 To get started with the Python chatbot project, follow these simple steps:
 
-1. Clone the repository: `git clone https://github.com/CodingCraftYT/chatbot-streamlit-openai`
+1. Clone the repository: `git clone https://github.com/CodeWithMayank-Py/Python-ChatBot-Streamlit-OpenAI`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Obtain an OpenAI API key: [https://platform.openai.com/account/api-keys]
 4. Configure the API key: [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]
@@ -54,7 +54,6 @@ Contact
 If you have any questions or need further assistance, feel free to reach out:
 
 📧 Email: paliwalm4321@gmail.com
-🎥 Youtube: https://youtu.be/Q10QlwN-LxE
 
 Happy Chatbot Building! 🤖💬
 
